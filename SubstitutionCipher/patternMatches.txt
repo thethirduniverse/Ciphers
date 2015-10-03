@@ -1,0 +1,532 @@
+***************
+index:82-91 cipher:PSGVHOSPNG
+pattern:ABCDEFBAGC candidates:[u'cryptarchy', u'necrogenic']
+***************
+index:146-157 cipher:OPPNDVCSXOKZ
+pattern:ABBCDEFGHAIJ candidates:[u'irregulation', u'moon-charmed']
+***************
+index:13-23 cipher:PSGVRTPCKCS
+pattern:ABCDEFAGHGB candidates:[u'cream-color', u'haemophilia', u'octaploidic']
+***************
+index:9-20 cipher:KCSGPSGVRTPC
+pattern:ABCDECDFGHEB candidates:[u'peritrichate']
+***************
+index:79-88 cipher:OPCPSGVHOS
+pattern:ABCBDEFGAD candidates:[u'palaeotype', u'statehouse']
+***************
+index:157-168 cipher:ZCKSGVCZPSHL
+pattern:ABCDEFBAGDHI candidates:[u'neurocentral']
+***************
+index:84-95 cipher:GVHOSPNGBTZZ
+pattern:ABCDEFGAHIJJ candidates:[u'catholicness', u'lightfulness', u'loathfulness']
+***************
+index:106-116 cipher:ONDZWOCHSHZ
+pattern:ABCDEAFGHGD candidates:[u'sheristadar']
+***************
+index:127-137 cipher:HXVNDDNHRPC
+pattern:ABCDEEDAFGH candidates:[u'subopposite']
+***************
+index:17-26 cipher:RTPCKCSGPR
+pattern:ABCDEDFGCA candidates:[u'adipopexia', u'entomolite', u'muriciform']
+***************
+index:110-119 cipher:WOCHSHZPCP
+pattern:ABCDEDFGCG candidates:[u'overgraded', u'overprases', u'overtraded']
+***************
+index:122-133 cipher:ZWOQNHXVNDDN
+pattern:ABCDEFGHEIIE candidates:[u'bachelorette', u'Haute-Vienne']
+***************
+index:127-139 cipher:HXVNDDNHRPCGZ
+pattern:ABCDEEDAFGHIJ candidates:[u'suboppositely']
+***************
+index:16-26 cipher:VRTPCKCSGPR
+pattern:ABCDEFEGHDB candidates:[u'astrologers', u'astronomers', u'vertiginate']
+***************
+index:32-44 cipher:GVRNPZNDZWOCH
+pattern:ABCDEFDGFHIJK candidates:[u'hydrocracking', u'sulphoproteid']
+***************
+index:103-113 cipher:XCDONDZWOCH
+pattern:ABCDECFGDBH candidates:[u'continuator', u'macrochiran']
+***************
+index:61-74 cipher:ZCKSXQNHXVNDWJ
+pattern:ABCDEFGHEIGJKL candidates:[u'verbalizations', u'vulgarizations']
+***************
+index:106-117 cipher:ONDZWOCHSHZP
+pattern:ABCDEAFGHGDI candidates:[u'unbeautified']
+***************
+index:124-135 cipher:OQNHXVNDDNHR
+pattern:ABCDEFCGGCDH candidates:[u'pain-killing']
+***************
+index:136-148 cipher:PCGZWOYHNKOPP
+pattern:ABCDEFGHIJFAA candidates:[u'southerliness']
+***************
+index:20-30 cipher:CKCSGPRSJPY
+pattern:ABACDEFCGEH candidates:[u'nontreaties']
+***************
+index:31-42 cipher:OGVRNPZNDZWO
+pattern:ABCDEFGEHGIA candidates:[u'ectropionize']
+***************
+index:30-41 cipher:YOGVRNPZNDZW
+pattern:ABCDEFGHFIHJ candidates:[u'Afro-asiatic', u'Biche-la-mar', u'bradyseismic']
+***************
+index:60-71 cipher:SZCKSXQNHXVN
+pattern:ABCDAEFGHEIG candidates:[u'unsquirelike']
+***************
+index:95-104 cipher:ZWOCGGOHXC
+pattern:ABCDEECFGD candidates:[u'Aniellidae']
+***************
+index:99-106 cipher:GGOHXCDO
+pattern:AABCDEFB candidates:[u'oocystic', u'oosperms']
+***************
+index:18-27 cipher:TPCKCSGPRS
+pattern:ABCDCEFBGE candidates:[u'birkremite', u'Marprelate', u'marprelate']
+***************
+index:45-54 cipher:ZCROCGZWOR
+pattern:ABCDBEAFDC candidates:[u'cognoscing']
+***************
+index:141-152 cipher:OYHNKOPPNDVC
+pattern:ABCDEAFFDGHI candidates:[u'intarissable']
+***************
+index:127-138 cipher:HXVNDDNHRPCG
+pattern:ABCDEEDAFGHI candidates:[u'overwwrought']
+***************
+index:61-72 cipher:ZCKSXQNHXVND
+pattern:ABCDEFGHEIGJ candidates:[u'Chambersburg', u'quasi-exiled', u'unshamefaced']
+***************
+index:104-112 cipher:CDONDZWOC
+pattern:ABCDBEFCA candidates:[u'gendering', u'priorship', u'sulfuryls']
+***************
+index:8-18 cipher:CKCSGPSGVRT
+pattern:ABACDECDFGH candidates:[u'tetrabranch', u'tetradrachm']
+***************
+index:76-87 cipher:NZWOPCPSGVHO
+pattern:ABCDEFEGHIJD candidates:[u'interproduce', u'rough-hewing', u'unresistable']
+***************
+index:24-34 cipher:GPRSJPYOGVR
+pattern:ABCDEBFGAHC candidates:[u'sulphurosyl']
+***************
+index:114-124 cipher:SHZPCPCGZWO
+pattern:ABCDEDEFCGH candidates:[u'philologian', u'philologist', u'philologize']
+***************
+index:22-32 cipher:CSGPRSJPYOG
+pattern:ABCDEBFDGHC candidates:[u'radicalized', u'urethratome']
+***************
+index:123-133 cipher:WOQNHXVNDDN
+pattern:ABCDEFGDHHD candidates:[u'Hexacoralla', u'Robespierre', u'vinegarette']
+***************
+index:116-125 cipher:ZPCPCGZWOQ
+pattern:ABCBCDAEFG candidates:[u'mononymize']
+***************
+index:2-11 cipher:ZWORSZCKCS
+pattern:ABCDEAFGFE candidates:[u'coparcener']
+***************
+index:170-180 cipher:ROGZBJROZSY
+pattern:ABCDEFABDGH candidates:[u'harp-shaped', u'incardinate']
+***************
+index:63-75 cipher:KSXQNHXVNDWJY
+pattern:ABCDEFCGEHIJK candidates:[u'prolegomenist']
+***************
+index:145-157 cipher:KOPPNDVCSXOKZ
+pattern:ABCCDEFGHIBAJ candidates:[u'sillographist']
+***************
+index:160-172 cipher:SGVCZPSHLTROG
+pattern:ABCDEFAGHIJKB candidates:[u'hygrophaneity', u'resubordinate']
+***************
+index:115-123 cipher:HZPCPCGZW
+pattern:ABCDCDEBF candidates:[u'Feininger', u'melilites']
+***************
+index:168-180 cipher:LTROGZBJROZSY
+pattern:ABCDEFGHCDFIJ candidates:[u'nephrotyphoid']
+***************
+index:68-81 cipher:HXVNDWJYNZWOPC
+pattern:ABCDEFGHDIFJKL candidates:[u'enigmatography']
+***************
+index:21-32 cipher:KCSGPRSJPYOG
+pattern:ABCDEFCGEHID candidates:[u'prolegomenal']
+***************
+index:170-181 cipher:ROGZBJROZSYW
+pattern:ABCDEFABDGHI candidates:[u'earth-eating']
+***************
+index:11-20 cipher:SGPSGVRTPC
+pattern:ABCABDEFCG candidates:[u'concordant', u'preprinted']
+***************
+index:19-27 cipher:PCKCSGPRS
+pattern:ABCBDEAFD candidates:[u'isoserine']
+***************
+index:92-102 cipher:BTZZWOCGGOH
+pattern:ABCCDEFGGEH candidates:[u'prooflessly']
+***************
+index:39-50 cipher:DZWOCHZCROCG
+pattern:ABCDEFBEGDEH candidates:[u'cloverleaves', u'snake-necked']
+***************
+index:84-96 cipher:GVHOSPNGBTZZW
+pattern:ABCDEFGAHIJJK candidates:[u'angelica-root', u'isometrically', u'sunday-school']
+***************
+index:93-102 cipher:TZZWOCGGOH
+pattern:ABBCDEFFDG candidates:[u'bootlessly', u'footlessly']
+***************
+index:52-62 cipher:WORSZWORSZC
+pattern:ABCDEABCDEF candidates:[u'micromicron', u'supersuperb']
+***************
+index:105-115 cipher:DONDZWOCHSH
+pattern:ABCADEBFGHG candidates:[u'antagonisms', u'high-minded', u'hyphomycete']
+***************
+index:104-114 cipher:CDONDZWOCHS
+pattern:ABCDBEFCAGH candidates:[u'inconducive']
+***************
+index:37-46 cipher:ZNDZWOCHZC
+pattern:ABCADEFGAF candidates:[u'tostamente']
+***************
+index:40-50 cipher:ZWOCHZCROCG
+pattern:ABCDEADFCDG candidates:[u'liverleaves']
+***************
+index:169-180 cipher:TROGZBJROZSY
+pattern:ABCDEFGBCEHI candidates:[u'achronychous', u'dermopterous']
+***************
+index:168-179 cipher:LTROGZBJROZS
+pattern:ABCDEFGHCDFI candidates:[u'contrapuntal', u'hucklebacked']
+***************
+index:58-69 cipher:ORSZCKSXQNHX
+pattern:ABCDEFCGHIJG candidates:[u'dermographia', u'Lincolnesque']
+***************
+index:73-85 cipher:WJYNZWOPCPSGV
+pattern:ABCDEAFGHGIJK candidates:[u'slow-spirited']
+***************
+index:104-113 cipher:CDONDZWOCH
+pattern:ABCDBEFCAG candidates:[u'unfanciful']
+***************
+index:116-124 cipher:ZPCPCGZWO
+pattern:ABCBCDAEF candidates:[u'mononymic']
+***************
+index:0-12 cipher:RSZWORSZCKCSG
+pattern:ABCDEABCFGFBH candidates:[u'mathematician']
+***************
+index:0-13 cipher:RSZWORSZCKCSGP
+pattern:ABCDEABCFGFBHI candidates:[u'mathematicians']
+***************
+index:94-100 cipher:ZZWOCGG
+pattern:AABCDEE candidates:[u'eegrass', u'oofless']
+***************
+index:139-150 cipher:ZWOYHNKOPPND
+pattern:ABCDEFGCHHFI candidates:[u'aneurilemmic']
+***************
+index:125-134 cipher:QNHXVNDDNH
+pattern:ABCDEBFFBC candidates:[u'pedicelled', u'red-gemmed', u'red-legged']
+***************
+index:80-89 cipher:PCPSGVHOSP
+pattern:ABACDEFGCA candidates:[u'anacletica']
+***************
+index:38-48 cipher:NDZWOCHZCRO
+pattern:ABCDEFGCFHE candidates:[u'Eunomianism', u'strikebreak', u'unthriftier']
+***************
+index:75-87 cipher:YNZWOPCPSGVHO
+pattern:ABCDEFGFHIJKE candidates:[u'spermatangium']
+***************
+index:127-136 cipher:HXVNDDNHRP
+pattern:ABCDEEDAFG candidates:[u'octillions']
+***************
+index:35-45 cipher:NPZNDZWOCHZ
+pattern:ABCADCEFGHC candidates:[u'checkerwise']
+***************
+index:93-101 cipher:TZZWOCGGO
+pattern:ABBCDEFFD candidates:[u'doorsills']
+***************
+index:125-135 cipher:QNHXVNDDNHR
+pattern:ABCDEBFFBCG candidates:[u'windmilling']
+***************
+index:164-176 cipher:ZPSHLTROGZBJR
+pattern:ABCDEFGHIAJKG candidates:[u'imputrescible', u'wheat-growing']
+***************
+index:134-146 cipher:HRPCGZWOYHNKO
+pattern:ABCDEFGHIAJKH candidates:[u'subcompensate']
+***************
+index:159-172 cipher:KSGVCZPSHLTROG
+pattern:ABCDEFGBHIJKLC candidates:[u'handicraftsmen', u'presubordinate']
+***************
+index:140-150 cipher:WOYHNKOPPND
+pattern:ABCDEFBGGEH candidates:[u'Fougerolles', u'suprabuccal', u'vermicellis']
+***************
+index:7-18 cipher:ZCKCSGPSGVRT
+pattern:ABCBDEFDEGHI candidates:[u'finish-shape', u'visionmonger']
+***************
+index:133-145 cipher:NHRPCGZWOYHNK
+pattern:ABCDEFGHIJBAK candidates:[u'indo-germanic', u'self-conquest', u'trouble-mirth']
+***************
+index:42-52 cipher:OCHZCROCGZW
+pattern:ABCDBEABFDG candidates:[u'unrenounced']
+***************
+index:8-15 cipher:CKCSGPSG
+pattern:ABACDECD candidates:[u'abacisci']
+***************
+index:157-169 cipher:ZCKSGVCZPSHLT
+pattern:ABCDEFBAGDHIJ candidates:[u'deproceduring']
+***************
+index:102-112 cipher:HXCDONDZWOC
+pattern:ABCDEFDGHEC candidates:[u'postentries']
+***************
+index:8-16 cipher:CKCSGPSGV
+pattern:ABACDECDF candidates:[u'tetragram']
+***************
+index:140-152 cipher:WOYHNKOPPNDVC
+pattern:ABCDEFBGGEHIJ candidates:[u'black-looking']
+***************
+index:9-19 cipher:KCSGPSGVRTP
+pattern:ABCDECDFGHE candidates:[u'contentable']
+***************
+index:54-64 cipher:RSZWORSZCKS
+pattern:ABCDEABCFGB candidates:[u'leni-lenape']
+***************
+index:12-22 cipher:GPSGVRTPCKC
+pattern:ABCADEFBGHG candidates:[u'unhusbanded']
+***************
+index:126-135 cipher:NHXVNDDNHR
+pattern:ABCDAEEABF candidates:[u'inclipping', u'instilling']
+***************
+index:131-139 cipher:DDNHRPCGZ
+index:147-155 cipher:PPNDVCSXO
+pattern:AABCDEFGH candidates:[u'ooblastic', u'ooplasmic']
+***************
+index:15-25 cipher:GVRTPCKCSGP
+pattern:ABCDEFGFHAE candidates:[u'compearance']
+***************
+index:131-140 cipher:DDNHRPCGZW
+index:147-156 cipher:PPNDVCSXOK
+pattern:AABCDEFGHI candidates:[u'aardwolves']
+***************
+index:72-85 cipher:DWJYNZWOPCPSGV
+pattern:ABCDEFBGHIHJKL candidates:[u'half-Latinized', u'unromanticised', u'unromanticized']
+***************
+index:51-60 cipher:ZWORSZWORS
+index:52-61 cipher:WORSZWORSZ
+pattern:ABCDEABCDE candidates:[u'chimachima', u'quinaquina', u'strumstrum']
+***************
+index:53-62 cipher:ORSZWORSZC
+pattern:ABCDEABCDF candidates:[u'overgovern', u'primoprime', u'tuco-tucos']
+***************
+index:49-59 cipher:CGZWORSZWOR
+pattern:ABCDEFGCDEF candidates:[u'grandstands', u'priestliest']
+***************
+index:8-17 cipher:CKCSGPSGVR
+pattern:ABACDECDFG candidates:[u'tetrabrach']
+***************
+index:139-149 cipher:ZWOYHNKOPPN
+pattern:ABCDEFGCHHF candidates:[u'Bridgeville', u'Princeville', u'unhardihood']
+***************
+index:121-132 cipher:GZWOQNHXVNDD
+pattern:ABCDEFGHIFJJ candidates:[u'anotherguess']
+***************
+index:150-160 cipher:DVCSXOKZCKS
+pattern:ABCDEFGHCGD candidates:[u'consultants', u'gold-ceiled']
+***************
+index:18-29 cipher:TPCKCSGPRSJP
+pattern:ABCDCEFBGEHB candidates:[u'mesosiderite']
+***************
+index:21-33 cipher:KCSGPRSJPYOGV
+pattern:ABCDEFCGEHIDJ candidates:[u'unperiphrased']
+***************
+index:123-135 cipher:WOQNHXVNDDNHR
+pattern:ABCDEFGDHHDEI candidates:[u'audioemission']
+***************
+index:54-66 cipher:RSZWORSZCKSXQ
+pattern:ABCDEABCFGBHI candidates:[u'mathematicals']
+***************
+index:152-162 cipher:CSXOKZCKSGV
+pattern:ABCDEFAEBGH candidates:[u'gastrograph', u'ingredients', u'unfrequency']
+***************
+index:117-129 cipher:PCPCGZWOQNHXV
+pattern:ABABCDEFGHIJK candidates:[u'nonoutlawries']
+***************
+index:80-90 cipher:PCPSGVHOSPN
+pattern:ABACDEFGCAH candidates:[u'executrices', u'nonesurient']
+***************
+index:132-144 cipher:DNHRPCGZWOYHN
+pattern:ABCDEFGHIJKCB candidates:[u'Montepulciano']
+***************
+index:31-43 cipher:OGVRNPZNDZWOC
+pattern:ABCDEFGEHGIAJ candidates:[u'ectropionized']
+***************
+index:163-176 cipher:CZPSHLTROGZBJR
+pattern:ABCDEFGHIJBKLH candidates:[u'homeward-bound', u'subventricular']
+***************
+index:77-88 cipher:ZWOPCPSGVHOS
+pattern:ABCDEDFGHICF candidates:[u'half-fertile']
+***************
+index:55-64 cipher:SZWORSZCKS
+pattern:ABCDEABFGA candidates:[u'subresults']
+***************
+index:1-10 cipher:SZWORSZCKC
+pattern:ABCDEABFGF candidates:[u'ungrounded', u'unobtunded']
+***************
+index:153-163 cipher:SXOKZCKSGVC
+pattern:ABCDEFDAGHF candidates:[u'androcratic', u'napoleonite']
+***************
+index:141-150 cipher:OYHNKOPPND
+pattern:ABCDEAFFDG candidates:[u'imperilled', u'unrebuffed', u'unrebutted']
+***************
+index:85-98 cipher:VHOSPNGBTZZWOC
+pattern:ABCDEFGHIJJKCL candidates:[u'laryngofissure']
+***************
+index:115-125 cipher:HZPCPCGZWOQ
+pattern:ABCDCDEBFGH candidates:[u'semimineral']
+***************
+index:143-154 cipher:HNKOPPNDVCSX
+pattern:ABCDEEBFGHIJ candidates:[u'neoytterbium', u'Resurrection']
+***************
+index:10-19 cipher:CSGPSGVRTP
+pattern:ABCDBCEFGD candidates:[u'apospories', u'segregator', u'unsensible']
+***************
+index:97-105 cipher:OCGGOHXCD
+pattern:ABCCADEBF candidates:[u'outtongue', u'reffrozen', u'sneeshing']
+***************
+index:151-161 cipher:VCSXOKZCKSG
+pattern:ABCDEFGBFCH candidates:[u'enlargingly', u'mosquitoish']
+***************
+index:37-47 cipher:ZNDZWOCHZCR
+pattern:ABCADEFGAFH candidates:[u'echelonment']
+***************
+index:100-111 cipher:GOHXCDONDZWO
+pattern:ABCDEFBGFHIB candidates:[u'ankylenteron']
+***************
+index:111-119 cipher:OCHSHZPCP
+pattern:ABCDCEFBF candidates:[u'biopoesis']
+***************
+index:113-121 cipher:HSHZPCPCG
+pattern:ABACDEDEF candidates:[u'cockamamy', u'odontitis']
+***************
+index:169-181 cipher:TROGZBJROZSYW
+pattern:ABCDEFGBCEHIJ candidates:[u'bacteriaceous']
+***************
+index:86-97 cipher:HOSPNGBTZZWO
+pattern:ABCDEFGHIIJB candidates:[u'Langsdorffia', u'pachyglossia', u'proscutellar']
+***************
+index:86-98 cipher:HOSPNGBTZZWOC
+pattern:ABCDEFGHIIJBK candidates:[u'uncrystalline', u'vermin-footed']
+***************
+index:74-87 cipher:JYNZWOPCPSGVHO
+pattern:ABCDEFGHGIJKLF candidates:[u'low-resistance']
+***************
+index:113-120 cipher:HSHZPCPC
+pattern:ABACDEDE candidates:[u'agaricic', u'edentata', u'siserara']
+***************
+index:7-16 cipher:ZCKCSGPSGV
+pattern:ABCBDEFDEG candidates:[u'robotistic']
+***************
+index:140-151 cipher:WOYHNKOPPNDV
+pattern:ABCDEFBGGEHI candidates:[u'bedrivelling', u'carnivallike', u'microvillous']
+***************
+index:6-14 cipher:SZCKCSGPS
+pattern:ABCDCAEFA candidates:[u'thanatist']
+***************
+index:43-51 cipher:CHZCROCGZ
+pattern:ABCADEAFC candidates:[u'entempest', u'enterfeat']
+***************
+index:82-92 cipher:PSGVHOSPNGB
+pattern:ABCDEFBAGCH candidates:[u'renumbering']
+***************
+index:44-53 cipher:HZCROCGZWO
+pattern:ABCDECFBGE candidates:[u'diazoamino', u'Wilhelmine']
+***************
+index:129-142 cipher:VNDDNHRPCGZWOY
+pattern:ABCCBDEFGHIJKL candidates:[u'common-variety', u'letter-copying', u'sorrow-healing']
+***************
+index:36-46 cipher:PZNDZWOCHZC
+pattern:ABCDBEFGHBG candidates:[u'Magdalenian', u'magdalenian', u'replenishes']
+***************
+index:116-122 cipher:ZPCPCGZ
+pattern:ABCBCDA candidates:[u'mononym']
+***************
+index:26-38 cipher:RSJPYOGVRNPZN
+pattern:ABCDEFGHAIDJI candidates:[u'redischarging']
+***************
+index:128-141 cipher:XVNDDNHRPCGZWO
+pattern:ABCDDCEFGHIJKL candidates:[u'overreachingly']
+***************
+index:96-105 cipher:WOCGGOHXCD
+pattern:ABCDDBEFCG candidates:[u'preffrozen', u'streetward']
+***************
+index:11-21 cipher:SGPSGVRTPCK
+pattern:ABCABDEFCGH candidates:[u'opiophagism', u'proprietous', u'velvet-clad']
+***************
+index:141-151 cipher:OYHNKOPPNDV
+pattern:ABCDEAFFDGH candidates:[u'fast-footed', u'flat-footed']
+***************
+index:157-170 cipher:ZCKSGVCZPSHLTR
+pattern:ABCDEFBAGDHIJK candidates:[u'cobaltocyanide']
+***************
+index:39-48 cipher:DZWOCHZCRO
+pattern:ABCDEFBEGD candidates:[u'winteriest']
+***************
+index:135-147 cipher:RPCGZWOYHNKOP
+pattern:ABCDEFGHIJKGB candidates:[u'Anglo-african', u'metahydroxide']
+***************
+index:46-55 cipher:CROCGZWORS
+index:156-165 cipher:KZCKSGVCZP
+pattern:ABCADEFCBG candidates:[u'propulsory', u'retributed', u'retroacted']
+***************
+index:154-165 cipher:XOKZCKSGVCZP
+pattern:ABCDECFGHEDI candidates:[u'continuality', u'emotionality', u'somnambulant']
+***************
+index:65-76 cipher:XQNHXVNDWJYN
+pattern:ABCDAECFGHIC candidates:[u'longlinerman']
+***************
+index:66-78 cipher:QNHXVNDWJYNZW
+pattern:ABCDEBFGHIBJG candidates:[u'New-Testament']
+***************
+index:171-183 cipher:OGZBJROZSYWNH
+pattern:ABCDEFACGHIJK candidates:[u'front-focused']
+***************
+index:118-130 cipher:CPCGZWOQNHXVN
+pattern:ABACDEFGHIJKH candidates:[u'noncuspidated', u'non-Israelite']
+***************
+index:150-161 cipher:DVCSXOKZCKSG
+pattern:ABCDEFGHCGDI candidates:[u'vers-librist']
+***************
+index:81-92 cipher:CPSGVHOSPNGB
+pattern:ABCDEFGCBHDI candidates:[u'ineloquently', u'prenumbering']
+***************
+index:124-133 cipher:OQNHXVNDDN
+pattern:ABCDEFCGGC candidates:[u'chemisette']
+***************
+index:157-166 cipher:ZCKSGVCZPS
+pattern:ABCDEFBAGD candidates:[u'pinstripes']
+***************
+index:20-31 cipher:CKCSGPRSJPYO
+pattern:ABACDEFCGEHI candidates:[u'ruralisation', u'ruralization']
+***************
+index:158-170 cipher:CKSGVCZPSHLTR
+pattern:ABCDEAFGCHIJK candidates:[u'Afro-American', u'intoxicatedly']
+***************
+index:109-118 cipher:ZWOCHSHZPC
+pattern:ABCDEFEAGD candidates:[u'aftergrave', u'gilravager', u'unthorough']
+***************
+index:1-11 cipher:SZWORSZCKCS
+pattern:ABCDEABFGFA candidates:[u'stylostixis']
+***************
+index:167-178 cipher:HLTROGZBJROZ
+pattern:ABCDEFGHIDEG candidates:[u'cloisterwise', u'intrapleural']
+***************
+index:5-15 cipher:RSZCKCSGPSG
+pattern:ABCDEDBFGBF candidates:[u'unrepentant', u'unrevenging']
+***************
+index:96-104 cipher:WOCGGOHXC
+pattern:ABCDDBEFC candidates:[u'preffroze', u'streetcar']
+***************
+index:167-180 cipher:HLTROGZBJROZSY
+pattern:ABCDEFGHIDEGJK candidates:[u'Inter-imperial']
+***************
+index:23-32 cipher:SGPRSJPYOG
+pattern:ABCDAECFGB candidates:[u'frogflower', u'periphrase', u'perspirate']
+***************
+index:42-49 cipher:OCHZCROC
+pattern:ABCDBEAB candidates:[u'stoutest', u'stuntist']
+***************
+index:120-132 cipher:CGZWOQNHXVNDD
+pattern:ABCDEFGHIJGKK candidates:[u'comradeliness']
+***************
+index:161-173 cipher:GVCZPSHLTROGZ
+pattern:ABCDEFGHIJKAD candidates:[u'livery-stable']
+***************
+index:168-178 cipher:LTROGZBJROZ
+pattern:ABCDEFGHCDF candidates:[u'ante-mortem', u'antisceptic', u'bridesmaids']
+***************
+index:54-65 cipher:RSZWORSZCKSX
+pattern:ABCDEABCFGBH candidates:[u'heavyhearted', u'mathematical']

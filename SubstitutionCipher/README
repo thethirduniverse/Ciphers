@@ -1,0 +1,24 @@
+What does this program do?
+    This program can help you decipher substitution cipher.
+    The general workflow of deciphering a substitution cipher is like this:
+        1. go through the cipher text to find a pattern
+        2. try the pattern to see whether it makes sense or not
+        3. if it does, try to come up with more guesses of which letter representing which
+        4. if it doen't, try another pattern until you find one that works
+    This program can help with the above process.
+
+Files:
+    dict_ori.csv : this is the original pattern file I got from my instructor
+
+    dictConverter.py : this program converts dict_ori to a more parseable format
+
+    dict.csv : the parsed pattern file
+
+    patternFinder.py : this program loads the parsed pattern file into memory, and exhaustively compares the cipher text to the pattern. If it find any matches, the matched index/text/patten/candidates will be printed to a file called "patternMatches.txt". The cipher text is embeded inside the program. This program may take a long time to run. On my computer it took about 1 minute to finish searching all patterns in a cipher with length 187.
+
+    substitutionGuessVerifier.py : this proram takes your guessed mapping, and perform it on the cipher text. You specify the mapping by adding entries to the mappings dictionary. By convention, cipher text is written using capital letters, and plain text is written using lower case letters. Therefore you specify the mapping like this: {'A':'c','B':'d'}. You don't have to include all 26 mappings in the dictionary. When a mapping is not specified for a letter, the original cipher text letter is used. It will generate something like "KRtheKRtics", with capital letters representing original cipher text and lower case letters representing your guessed plaintext. Hopefully you find out that K represents m and R represents a. By adding the following two mappings: 'K':'m', 'R':'a', you will see the fully deciphered plain text: "mathematics".
+
+Credits:
+    I created this program to solve my cryptography homeworks. The original pattern file is provided by my instructor.
+
+Happy Deciphering!
